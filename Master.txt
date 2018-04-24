@@ -1,9 +1,1 @@
 
-<Version:1.01>
-/data/Map003.json https://raw.githubusercontent.com/hleoreyes/Updater/master/Map003.json
-<End of Version>
-
-<Version:1.02>
-/js/plugins/AutoUpdate.js https://raw.githubusercontent.com/hleoreyes/Updater/master/AutoUpdate.js
-/js/plugins/SRD_PluginUpdater.js https://raw.githubusercontent.com/hleoreyes/Updater/master/SRD_PluginUpdater.js
-<End of Version>
