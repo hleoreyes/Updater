@@ -14,3 +14,6 @@
 
 <End of Version>
 
+<Version:1.07>
+/data/Map003.json https://raw.githubusercontent.com/hleoreyes/Updater/master/Map003.json
+<End of Version>
