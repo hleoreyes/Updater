@@ -2,6 +2,9 @@
 <Version:1.04>
 
 /data/Map003.json https://raw.githubusercontent.com/hleoreyes/Updater/master/Map003.json
+/data/Items.json https://raw.githubusercontent.com/hleoreyes/Updater/master/Items.json
+/data/Enemies.json https://raw.githubusercontent.com/hleoreyes/Updater/master/Enemies.json
+/data/CommonEvents.json https://raw.githubusercontent.com/hleoreyes/Updater/master/CommonEvents.json
 
 <End of Version>
 
