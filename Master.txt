@@ -1,5 +1,5 @@
 
-<Version:1.03>
+<Version:1.04>
 
 /data/Map003.json https://raw.githubusercontent.com/hleoreyes/Updater/master/Map003.json
 /data/Items.json https://raw.githubusercontent.com/hleoreyes/Updater/master/Items.json
